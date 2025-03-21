@@ -1,7 +1,6 @@
 package com.mstra.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.mstra.domain.TwoFactorAuth;
 import com.mstra.domain.USER_ROLE;
 import jakarta.persistence.*;
 import lombok.Data;

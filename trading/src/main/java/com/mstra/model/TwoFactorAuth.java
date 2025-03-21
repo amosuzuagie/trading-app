@@ -1,5 +1,6 @@
-package com.mstra.domain;
+package com.mstra.model;
 
+import com.mstra.domain.VerificationType;
 import lombok.Data;
 
 @Data
